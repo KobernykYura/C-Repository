@@ -1,0 +1,6 @@
+C:\Users\kober\documents\visual studio 2017\Projects\HomeDelegate\BookShop2\bin\Debug\BookShop2.exe.config
+C:\Users\kober\documents\visual studio 2017\Projects\HomeDelegate\BookShop2\bin\Debug\BookShop2.exe
+C:\Users\kober\documents\visual studio 2017\Projects\HomeDelegate\BookShop2\bin\Debug\BookShop2.pdb
+C:\Users\kober\documents\visual studio 2017\Projects\HomeDelegate\BookShop2\obj\Debug\BookShop2.exe
+C:\Users\kober\documents\visual studio 2017\Projects\HomeDelegate\BookShop2\obj\Debug\BookShop2.pdb
+C:\Users\kober\documents\visual studio 2017\Projects\HomeDelegate\BookShop2\obj\Debug\BookShop2.csprojResolveAssemblyReference.cache

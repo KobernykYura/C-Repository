@@ -1,0 +1,6 @@
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\AbstractAsteroid\bin\Debug\AbstractAsteroid.exe.config
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\AbstractAsteroid\bin\Debug\AbstractAsteroid.exe
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\AbstractAsteroid\bin\Debug\AbstractAsteroid.pdb
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\AbstractAsteroid\obj\Debug\AbstractAsteroid.exe
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\AbstractAsteroid\obj\Debug\AbstractAsteroid.pdb
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\AbstractAsteroid\obj\Debug\AbstractAsteroid.csprojResolveAssemblyReference.cache

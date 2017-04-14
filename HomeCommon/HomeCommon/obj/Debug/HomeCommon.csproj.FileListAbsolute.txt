@@ -1,0 +1,6 @@
+c:\users\kober\documents\visual studio 2017\Projects\HomeCommon\HomeCommon\bin\Debug\HomeCommon.exe.config
+c:\users\kober\documents\visual studio 2017\Projects\HomeCommon\HomeCommon\bin\Debug\HomeCommon.exe
+c:\users\kober\documents\visual studio 2017\Projects\HomeCommon\HomeCommon\bin\Debug\HomeCommon.pdb
+c:\users\kober\documents\visual studio 2017\Projects\HomeCommon\HomeCommon\obj\Debug\HomeCommon.csprojResolveAssemblyReference.cache
+c:\users\kober\documents\visual studio 2017\Projects\HomeCommon\HomeCommon\obj\Debug\HomeCommon.exe
+c:\users\kober\documents\visual studio 2017\Projects\HomeCommon\HomeCommon\obj\Debug\HomeCommon.pdb

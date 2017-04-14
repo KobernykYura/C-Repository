@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppHome</name>
+    </assembly>
+    <members>
+        <member name="M:AppHome.BaseObject.#ctor(System.Drawing.Point,System.Drawing.Point,System.Drawing.Size)">
+            <summary>
+            Конструктор звезды.
+            </summary>
+            <param name="pos">Позиция объекта.</param>
+            <param name="dir">Направление.</param>
+            <param name="size">Размер объекта.</param>
+        </member>
+        <member name="M:AppHome.BaseObject.Draw">
+            <summary>
+            Виртуальный метод вывода звезд.
+            </summary>
+        </member>
+        <member name="M:AppHome.BaseObject.Update">
+            <summary>
+            Виртуальный метод изменения положения.
+            </summary>
+        </member>
+        <member name="M:AppHome.BaseObject.DrawCrossStar">
+            <summary>
+            Виртуальный метод создания звезд.
+            </summary>
+        </member>
+        <member name="M:AppHome.Game.Init(System.Windows.Forms.Form)">
+            <summary>
+            Сборка графического окна, установка высоты и ширины окна. Присутствует таймер.
+            </summary>
+            <param name="form">Объект класса Form, включающая в себя размеры окна формы.</param>
+        </member>
+        <member name="M:AppHome.Game.Draw">
+            <summary>
+            Создание фона на основе фотографии туманности. Вывод каждой звезды на экран через цикл.
+            </summary>
+        </member>
+        <member name="M:AppHome.Game.Update">
+            <summary>
+            Обновление позиции каждой звезды.
+            </summary>
+        </member>
+        <member name="M:AppHome.Game.Load">
+            <summary>
+            Загрузка в массива установленных звезд.
+            </summary>
+        </member>
+        <member name="M:AppHome.Game.Timer_Tick(System.Object,System.EventArgs)">
+            <summary>
+             Обработчик таймера.
+            </summary>
+            <param name="sender">Объект таймера.</param>
+            <param name="e">Событие.</param>
+        </member>
+        <member name="M:AppHome.Star.#ctor(System.Drawing.Point,System.Drawing.Point,System.Drawing.Size)">
+            <summary>
+            Конструктор звезды.
+            </summary>
+            <param name="pos">Позиция объекта.</param>
+            <param name="dir">Направление.</param>
+            <param name="size">Размер объекта.</param>
+        </member>
+        <member name="M:AppHome.Star.Draw">
+            <summary>
+            Переписанный виртуальный метод Update() изменения положения звезды.
+            </summary>
+        </member>
+        <member name="M:AppHome.Star.Update">
+            <summary>
+            Переписанный виртуальный метод DrawCrossStar() создания звезды.
+            </summary>
+        </member>
+        <member name="M:AppHome.StarNew.#ctor(System.Drawing.Point,System.Drawing.Point,System.Drawing.Size)">
+            <summary>
+            Конструктор звезды.
+            </summary>
+            <param name="pos">Позиция объекта.</param>
+            <param name="dir">Направление.</param>
+            <param name="size">Размер объекта.</param>
+        </member>
+        <member name="M:AppHome.StarNew.Draw">
+            <summary>
+            Переписанный метод Draw() вывода звезд.
+            </summary>
+        </member>
+        <member name="M:AppHome.StarNew.Update">
+            <summary>
+            Переписанный виртуальный метод Update() изменения положения звезды.
+            </summary>
+        </member>
+        <member name="M:AppHome.StarNew.DrawCrossStar">
+            <summary>
+            Переписанный виртуальный метод DrawCrossStar() создания звезды.
+            </summary>
+        </member>
+    </members>
+</doc>

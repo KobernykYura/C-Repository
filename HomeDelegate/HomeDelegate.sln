@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeDelegate", "HomeDelegate\HomeDelegate.csproj", "{859634E8-FFAA-435F-8B4F-0B6BA7DB6DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop2", "BookShop2\BookShop2.csproj", "{05C3581D-2E5D-455D-80CC-A0C3B85A3282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859634E8-FFAA-435F-8B4F-0B6BA7DB6DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859634E8-FFAA-435F-8B4F-0B6BA7DB6DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859634E8-FFAA-435F-8B4F-0B6BA7DB6DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859634E8-FFAA-435F-8B4F-0B6BA7DB6DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C3581D-2E5D-455D-80CC-A0C3B85A3282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C3581D-2E5D-455D-80CC-A0C3B85A3282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C3581D-2E5D-455D-80CC-A0C3B85A3282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C3581D-2E5D-455D-80CC-A0C3B85A3282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

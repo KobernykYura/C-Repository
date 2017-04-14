@@ -1,0 +1,6 @@
+c:\users\kober\documents\visual studio 2017\Projects\HomeLanda\HomeLanda\bin\Debug\HomeLanda.exe.config
+c:\users\kober\documents\visual studio 2017\Projects\HomeLanda\HomeLanda\bin\Debug\HomeLanda.exe
+c:\users\kober\documents\visual studio 2017\Projects\HomeLanda\HomeLanda\bin\Debug\HomeLanda.pdb
+c:\users\kober\documents\visual studio 2017\Projects\HomeLanda\HomeLanda\obj\Debug\HomeLanda.csprojResolveAssemblyReference.cache
+c:\users\kober\documents\visual studio 2017\Projects\HomeLanda\HomeLanda\obj\Debug\HomeLanda.exe
+c:\users\kober\documents\visual studio 2017\Projects\HomeLanda\HomeLanda\obj\Debug\HomeLanda.pdb

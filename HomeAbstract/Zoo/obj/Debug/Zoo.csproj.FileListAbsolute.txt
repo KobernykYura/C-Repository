@@ -1,0 +1,6 @@
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\Zoo\bin\Debug\Zoo.exe
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\Zoo\bin\Debug\Zoo.pdb
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\Zoo\obj\Debug\Zoo.csprojResolveAssemblyReference.cache
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\Zoo\obj\Debug\Zoo.exe
+C:\Users\kober\documents\visual studio 2017\Projects\HomeAbstract\Zoo\obj\Debug\Zoo.pdb

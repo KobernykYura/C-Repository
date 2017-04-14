@@ -1,0 +1,6 @@
+c:\users\kober\documents\visual studio 2017\Projects\HomeDelegate\HomeDelegate\bin\Debug\HomeDelegate.exe.config
+c:\users\kober\documents\visual studio 2017\Projects\HomeDelegate\HomeDelegate\bin\Debug\HomeDelegate.exe
+c:\users\kober\documents\visual studio 2017\Projects\HomeDelegate\HomeDelegate\bin\Debug\HomeDelegate.pdb
+c:\users\kober\documents\visual studio 2017\Projects\HomeDelegate\HomeDelegate\obj\Debug\HomeDelegate.csprojResolveAssemblyReference.cache
+c:\users\kober\documents\visual studio 2017\Projects\HomeDelegate\HomeDelegate\obj\Debug\HomeDelegate.exe
+c:\users\kober\documents\visual studio 2017\Projects\HomeDelegate\HomeDelegate\obj\Debug\HomeDelegate.pdb

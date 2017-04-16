@@ -1,0 +1,9 @@
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\bin\Debug\HomeFormAsynk.exe.config
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\bin\Debug\HomeFormAsynk.exe
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\bin\Debug\HomeFormAsynk.pdb
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\obj\Debug\HomeFormAsynk.csprojResolveAssemblyReference.cache
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\obj\Debug\HomeFormAsynk.asynk_Form.resources
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\obj\Debug\HomeFormAsynk.Properties.Resources.resources
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\obj\Debug\HomeFormAsynk.csproj.GenerateResource.Cache
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\obj\Debug\HomeFormAsynk.exe
+C:\Users\kober\OneDrive\Дакументы\Visual Studio 2015\Projects\C#\C#_part2\HomeForms\HomeFormAsynk\obj\Debug\HomeFormAsynk.pdb
